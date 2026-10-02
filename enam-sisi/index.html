@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tes Kepribadian Enam Sisi</title>
+  <meta name="description" content="Seperti Big Five, ditambah satu sisi yang sering terlewat: kejujuran dan kerendahan hati. 96 pernyataan, tinggal klik, gratis, tanpa daftar.">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#f4f7f3" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#18211f" media="(prefers-color-scheme: dark)">
+  <meta property="og:title" content="Tes Kepribadian Enam Sisi">
+  <meta property="og:description" content="Seperti Big Five, ditambah satu sisi yang sering terlewat: kejujuran dan kerendahan hati. 96 pernyataan, tinggal klik, gratis, tanpa daftar.">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="../ikon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600;700&family=Bricolage+Grotesque:opsz,wdth,wght@12..96,75..100,500..800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../gaya.css">
+</head>
+<body>
+
+  <main id="app">
+
+    <section id="layar-awal" class="layar">
+      <a class="balik" href="../">Semua tes</a>
+      <h1 class="judul">Enam sisi kepribadian, termasuk seberapa lurus kamu.</h1>
+
+      <ul class="lempung-awal" aria-label="Yang diukur">
+        <li class="lempung" style="--p:92%;--warna:var(--k1)">Kejujuran dan kerendahan hati</li>
+        <li class="lempung" style="--p:58%;--warna:var(--k2)">Emosionalitas</li>
+        <li class="lempung" style="--p:74%;--warna:var(--k3)">Ekstraversi</li>
+        <li class="lempung" style="--p:66%;--warna:var(--k4)">Kesabaran</li>
+        <li class="lempung" style="--p:82%;--warna:var(--k5)">Keteraturan</li>
+        <li class="lempung" style="--p:70%;--warna:var(--k6)">Keterbukaan</li>
+      </ul>
+
+      <p class="pengantar">Model enam sisi menambahkan kejujuran dan kerendahan hati ke lima sisi kepribadian yang sudah umum. Kamu akan membaca 96 pernyataan pendek dan memilih seberapa sesuai masing-masing dengan dirimu. Waktunya sekitar 8 sampai 12 menit.</p>
+
+      <div class="aksi">
+        <button id="tombol-mulai" class="tombol utama" type="button">Mulai tes</button>
+        <button id="tombol-ulang-awal" class="tombol polos" type="button" hidden>Mulai dari awal</button>
+      </div>
+
+      <ul class="catatan">
+        <li>Jawab sesuai dirimu sehari-hari, bukan dirimu yang kamu harapkan.</li>
+        <li>Tidak ada jawaban benar atau salah, jadi tidak perlu lama menimbang.</li>
+        <li>Jawaban disimpan di perangkat ini saja. Kalau berhenti di tengah, kamu bisa melanjutkan dari soal terakhir.</li>
+      </ul>
+    </section>
+
+    <section id="layar-soal" class="layar" hidden>
+      <div class="kemajuan">
+        <div class="kemajuan-jalur" role="progressbar" aria-valuemin="0" aria-valuemax="96" aria-valuenow="0" aria-label="Kemajuan tes">
+          <div id="kemajuan-isi" class="kemajuan-isi"></div>
+        </div>
+        <p id="kemajuan-teks" class="kemajuan-teks">1 dari 96</p>
+      </div>
+      <p id="tonggak" class="tonggak" aria-live="polite"></p>
+
+      <p class="tanya">Seberapa sesuai pernyataan ini dengan dirimu?</p>
+      <h2 id="pernyataan" class="pernyataan" aria-live="polite"></h2>
+
+      <div id="pilihan" class="pilihan" role="group" aria-label="Pilihan jawaban"></div>
+
+      <div class="navigasi">
+        <button id="tombol-mundur" class="tombol polos" type="button">Soal sebelumnya</button>
+        <p class="petunjuk-tombol">Di komputer, tekan angka 1 sampai 5.</p>
+      </div>
+    </section>
+
+    <section id="layar-hasil" class="layar" hidden>
+      <a class="balik" href="../">Semua tes</a>
+      <p id="hasil-kiriman" class="kiriman" hidden>Ini hasil yang dibagikan seseorang kepadamu.</p>
+      <h1 class="judul judul-hasil">Hasil kamu</h1>
+      <p id="ringkasan" class="ringkasan"></p>
+
+      <div id="daftar-hasil" class="daftar-hasil"></div>
+
+      <div class="aksi aksi-hasil">
+        <button id="tombol-salin" class="tombol utama" type="button">Salin ringkasan</button>
+        <button id="tombol-tautan" class="tombol garis" type="button">Salin tautan hasil</button>
+        <button id="tombol-ulang" class="tombol polos" type="button">Ulangi tes</button>
+      </div>
+      <p id="status-salin" class="status-salin" role="status"></p>
+
+      <div class="cara-baca">
+        <h2>Cara membaca hasilnya</h2>
+        <p>Angka 0 sampai 100 menunjukkan posisimu di skala jawaban, bukan persentil. Di bawah 38 disebut rendah, di atas 62 tinggi, di antaranya sedang.</p>
+        <p>Ini versi ringkas: tiap rincian diukur dengan empat pernyataan, sedangkan versi lengkapnya sepuluh. Skor enam sisi utama cukup stabil, tapi skor rincian sebaiknya dibaca sebagai gambaran kasar.</p>
+        <p>Tidak ada skor yang lebih baik dari yang lain, termasuk di sisi kejujuran. Hasil ini gambaran kecenderungan dari jawabanmu sendiri, bukan diagnosis.</p>
+      </div>
+
+      <div id="lainnya" class="lainnya" hidden>
+        <h2>Tes lainnya</h2>
+        <ul id="daftar-lainnya" class="daftar-tes"></ul>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="kaki">
+    <p>Butir tes: skala IPIP-HEXACO susunan Ashton, Lee, dan Goldberg (2007) dari International Personality Item Pool, berstatus domain publik. Dipakai 96 dari 240 butir, diterjemahkan ulang ke bahasa Indonesia.</p>
+  </footer>
+
+  <script src="../daftar.js"></script>
+  <script src="data.js"></script>
+  <script src="../mesin.js"></script>
+</body>
+</html>

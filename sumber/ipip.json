@@ -1,0 +1,3135 @@
+{
+ "hexaco": [
+  {
+   "nama": "Sincerity (H:Sinc) [Alpha = .81]",
+   "butir": [
+    {
+     "t": "Don't pretend to be more than I am.",
+     "r": 0
+    },
+    {
+     "t": "Use flattery to get ahead.",
+     "r": 1
+    },
+    {
+     "t": "Tell other people what they want to hear so that they will do what I want them to do.",
+     "r": 1
+    },
+    {
+     "t": "Put on a show to impress people.",
+     "r": 1
+    },
+    {
+     "t": "Switch my loyalties when I feel like it.",
+     "r": 1
+    },
+    {
+     "t": "Play a role in order to impress people.",
+     "r": 1
+    },
+    {
+     "t": "Pretend to be concerned for others.",
+     "r": 1
+    },
+    {
+     "t": "Act like different people in different situations.",
+     "r": 1
+    },
+    {
+     "t": "Find it necessary to please the people who have power.",
+     "r": 1
+    },
+    {
+     "t": "Let people push me around to help them feel important.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Fairness (H:Fair) [Alpha = .77]",
+   "butir": [
+    {
+     "t": "Would never take things that aren't mine.",
+     "r": 0
+    },
+    {
+     "t": "Would never cheat on my taxes.",
+     "r": 0
+    },
+    {
+     "t": "Return extra change when a cashier makes a mistake.",
+     "r": 0
+    },
+    {
+     "t": "Would feel very badly for a long time if I were to steal from someone.",
+     "r": 0
+    },
+    {
+     "t": "Try to follow the rules.",
+     "r": 0
+    },
+    {
+     "t": "Admire a really clever scam.",
+     "r": 1
+    },
+    {
+     "t": "Cheat to get ahead.",
+     "r": 1
+    },
+    {
+     "t": "Steal things.",
+     "r": 1
+    },
+    {
+     "t": "Cheat on people who have trusted me.",
+     "r": 1
+    },
+    {
+     "t": "Would not regret my behavior if I were to take advantage of someone impulsively.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Greed Avoidance (H:Gree) [Alpha = .69]",
+   "butir": [
+    {
+     "t": "Would not enjoy being a famous celebrity.",
+     "r": 0
+    },
+    {
+     "t": "Don't strive for elegance in my appearance.",
+     "r": 0
+    },
+    {
+     "t": "Love luxury.",
+     "r": 1
+    },
+    {
+     "t": "Have a strong need for power.",
+     "r": 1
+    },
+    {
+     "t": "Seek status.",
+     "r": 1
+    },
+    {
+     "t": "Am mainly interested in money.",
+     "r": 1
+    },
+    {
+     "t": "Wish to stay young forever.",
+     "r": 1
+    },
+    {
+     "t": "Try to impress others.",
+     "r": 1
+    },
+    {
+     "t": "Prefer to eat at expensive restaurants.",
+     "r": 1
+    },
+    {
+     "t": "Am out for my own personal gain.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Modesty (H:Mode) [Alpha = .81]",
+   "butir": [
+    {
+     "t": "Don't think that I'm better than other people.",
+     "r": 0
+    },
+    {
+     "t": "See myself as an average person.",
+     "r": 0
+    },
+    {
+     "t": "Am just an ordinary person.",
+     "r": 0
+    },
+    {
+     "t": "Consider myself an average person.",
+     "r": 0
+    },
+    {
+     "t": "Would like to have more power than other people.",
+     "r": 1
+    },
+    {
+     "t": "Believe that I am better than others.",
+     "r": 1
+    },
+    {
+     "t": "Like to attract attention.",
+     "r": 1
+    },
+    {
+     "t": "Am more capable than most others.",
+     "r": 1
+    },
+    {
+     "t": "Am likely to show off if I get the chance.",
+     "r": 1
+    },
+    {
+     "t": "Boast about my virtues.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Fearfulness (E:Fear) [Alpha = .84]",
+   "butir": [
+    {
+     "t": "Am a physical coward.",
+     "r": 0
+    },
+    {
+     "t": "Begin to panic when there is danger.",
+     "r": 0
+    },
+    {
+     "t": "Would fear walking in a high-crime part of a city.",
+     "r": 0
+    },
+    {
+     "t": "Tremble in dangerous situations.",
+     "r": 0
+    },
+    {
+     "t": "Would never go riding down a stretch of rapids in a canoe.",
+     "r": 0
+    },
+    {
+     "t": "Like to do frightening things.",
+     "r": 1
+    },
+    {
+     "t": "Face danger confidently.",
+     "r": 1
+    },
+    {
+     "t": "Love dangerous situations.",
+     "r": 1
+    },
+    {
+     "t": "Would be good at rescuing people from a burning building.",
+     "r": 1
+    },
+    {
+     "t": "Am willing to take risks.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Anxiety (E:Anxi) [Alpha = .85]",
+   "butir": [
+    {
+     "t": "Often worry about things that turn out to be unimportant.",
+     "r": 0
+    },
+    {
+     "t": "Worry about things.",
+     "r": 0
+    },
+    {
+     "t": "Get stressed out easily.",
+     "r": 0
+    },
+    {
+     "t": "Get upset by unpleasant thoughts that come into my mind.",
+     "r": 0
+    },
+    {
+     "t": "Panic easily.",
+     "r": 0
+    },
+    {
+     "t": "Rarely worry.",
+     "r": 1
+    },
+    {
+     "t": "Rarely feel depressed.",
+     "r": 1
+    },
+    {
+     "t": "Am not easily disturbed by events.",
+     "r": 1
+    },
+    {
+     "t": "Remain calm under pressure.",
+     "r": 1
+    },
+    {
+     "t": "Don't worry about things that have already happened.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Dependence (E:Depe) [Alpha = .73]",
+   "butir": [
+    {
+     "t": "Need reassurance.",
+     "r": 0
+    },
+    {
+     "t": "Let myself be influenced by others.",
+     "r": 0
+    },
+    {
+     "t": "Need the approval of others.",
+     "r": 0
+    },
+    {
+     "t": "Need protection.",
+     "r": 0
+    },
+    {
+     "t": "Often need help.",
+     "r": 0
+    },
+    {
+     "t": "Show my sadness.",
+     "r": 0
+    },
+    {
+     "t": "Suspect that my facial expressions give me away when I feel sad.",
+     "r": 0
+    },
+    {
+     "t": "Seek support.",
+     "r": 0
+    },
+    {
+     "t": "Can't do without the company of others.",
+     "r": 0
+    },
+    {
+     "t": "Want to be liked.",
+     "r": 0
+    }
+   ]
+  },
+  {
+   "nama": "Sentimentality (E:Sent) [Alpha = .79]",
+   "butir": [
+    {
+     "t": "Feel others' emotions.",
+     "r": 0
+    },
+    {
+     "t": "Immediately feel sad when hearing of an unhappy event.",
+     "r": 0
+    },
+    {
+     "t": "Cry during movies.",
+     "r": 0
+    },
+    {
+     "t": "Am sensitive to the needs of others.",
+     "r": 0
+    },
+    {
+     "t": "Am deeply moved by others' misfortunes.",
+     "r": 0
+    },
+    {
+     "t": "Rarely cry during sad movies.",
+     "r": 1
+    },
+    {
+     "t": "Seldom feel weepy while reading the sad part of a story.",
+     "r": 1
+    },
+    {
+     "t": "Am seldom bothered by the apparent suffering of strangers.",
+     "r": 1
+    },
+    {
+     "t": "Don't understand people who get emotional.",
+     "r": 1
+    },
+    {
+     "t": "Seldom get emotional.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Expressiveness (X:Expr) [Alpha = .84]",
+   "butir": [
+    {
+     "t": "Talk a lot.",
+     "r": 0
+    },
+    {
+     "t": "Am never at a loss for words.",
+     "r": 0
+    },
+    {
+     "t": "Am the life of the party.",
+     "r": 0
+    },
+    {
+     "t": "Tell people about it when I'm irritated.",
+     "r": 0
+    },
+    {
+     "t": "Have an intense, boisterous laugh.",
+     "r": 0
+    },
+    {
+     "t": "Don't talk a lot.",
+     "r": 1
+    },
+    {
+     "t": "Don't like to draw attention to myself.",
+     "r": 1
+    },
+    {
+     "t": "Say little.",
+     "r": 1
+    },
+    {
+     "t": "Bottle up my feelings.",
+     "r": 1
+    },
+    {
+     "t": "Speak softly.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Social Boldness (X:SocB) [Alpha = .86]",
+   "butir": [
+    {
+     "t": "Am good at making impromptu speeches.",
+     "r": 0
+    },
+    {
+     "t": "Don't mind being the center of attention.",
+     "r": 0
+    },
+    {
+     "t": "Feel comfortable around people.",
+     "r": 0
+    },
+    {
+     "t": "Have leadership abilities.",
+     "r": 0
+    },
+    {
+     "t": "Have a strong personality.",
+     "r": 0
+    },
+    {
+     "t": "Would be afraid to give a speech in public.",
+     "r": 1
+    },
+    {
+     "t": "Keep in the background.",
+     "r": 1
+    },
+    {
+     "t": "Find it difficult to approach others.",
+     "r": 1
+    },
+    {
+     "t": "Hate being the center of attention.",
+     "r": 1
+    },
+    {
+     "t": "Have little to say.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Sociability (X:Soci) [Alpha = .85]",
+   "butir": [
+    {
+     "t": "Usually like to spend my free time with people.",
+     "r": 0
+    },
+    {
+     "t": "Talk to a lot of different people at parties.",
+     "r": 0
+    },
+    {
+     "t": "Love to chat.",
+     "r": 0
+    },
+    {
+     "t": "Make friends easily.",
+     "r": 0
+    },
+    {
+     "t": "Enjoy being part of a group.",
+     "r": 0
+    },
+    {
+     "t": "Seem to derive less enjoyment from interacting with people than others do.",
+     "r": 1
+    },
+    {
+     "t": "Rarely enjoy being with people.",
+     "r": 1
+    },
+    {
+     "t": "Would not enjoy a job that involves a lot of social interaction.",
+     "r": 1
+    },
+    {
+     "t": "Am hard to get to know.",
+     "r": 1
+    },
+    {
+     "t": "Keep others at a distance.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Liveliness (X:Live) [Alpha = .82]",
+   "butir": [
+    {
+     "t": "Maintain high energy throughout the day.",
+     "r": 0
+    },
+    {
+     "t": "Have great stamina.",
+     "r": 0
+    },
+    {
+     "t": "Am usually active and full of energy.",
+     "r": 0
+    },
+    {
+     "t": "Smile a lot.",
+     "r": 0
+    },
+    {
+     "t": "Feel healthy and vibrant most of the time.",
+     "r": 0
+    },
+    {
+     "t": "Laugh a lot.",
+     "r": 0
+    },
+    {
+     "t": "Feel that I have a lot of inner strength.",
+     "r": 0
+    },
+    {
+     "t": "Have a lot of fun.",
+     "r": 0
+    },
+    {
+     "t": "Tire out quickly.",
+     "r": 1
+    },
+    {
+     "t": "Often feel blue.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Forgiveness (A:Forg) [Alpha = .78]",
+   "butir": [
+    {
+     "t": "Love my enemies.",
+     "r": 0
+    },
+    {
+     "t": "Try to forgive and forget.",
+     "r": 0
+    },
+    {
+     "t": "Am inclined to forgive others.",
+     "r": 0
+    },
+    {
+     "t": "Am nice to people I should be angry at.",
+     "r": 0
+    },
+    {
+     "t": "Find it hard to forgive others.",
+     "r": 1
+    },
+    {
+     "t": "Hold a grudge.",
+     "r": 1
+    },
+    {
+     "t": "Get back at people who insult me.",
+     "r": 1
+    },
+    {
+     "t": "Get even with others.",
+     "r": 1
+    },
+    {
+     "t": "Distrust people.",
+     "r": 1
+    },
+    {
+     "t": "Feel that most people can't be trusted.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Gentleness (A:Gent) [Alpha = .81]",
+   "butir": [
+    {
+     "t": "Rarely complain.",
+     "r": 0
+    },
+    {
+     "t": "Take things as they come.",
+     "r": 0
+    },
+    {
+     "t": "Accept people as they are.",
+     "r": 0
+    },
+    {
+     "t": "Have a good word for everyone.",
+     "r": 0
+    },
+    {
+     "t": "Become frustrated and angry with people when they don't live up to my expectations.",
+     "r": 1
+    },
+    {
+     "t": "Am quick to judge others.",
+     "r": 1
+    },
+    {
+     "t": "Find fault with everything.",
+     "r": 1
+    },
+    {
+     "t": "Speak ill of others.",
+     "r": 1
+    },
+    {
+     "t": "Have a sharp tongue.",
+     "r": 1
+    },
+    {
+     "t": "Criticize others' shortcomings.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Flexibility (A:Flex) [Alpha = .73]",
+   "butir": [
+    {
+     "t": "Adjust easily.",
+     "r": 0
+    },
+    {
+     "t": "Am good at taking advice.",
+     "r": 0
+    },
+    {
+     "t": "When interacting with a group of people, am often bothered by at least one of them.",
+     "r": 1
+    },
+    {
+     "t": "React strongly to criticism.",
+     "r": 1
+    },
+    {
+     "t": "Get upset if others change the way that I have arranged things.",
+     "r": 1
+    },
+    {
+     "t": "Am hard to convince.",
+     "r": 1
+    },
+    {
+     "t": "Am annoyed by others' mistakes.",
+     "r": 1
+    },
+    {
+     "t": "Can't stand being contradicted.",
+     "r": 1
+    },
+    {
+     "t": "Am hard to satisfy.",
+     "r": 1
+    },
+    {
+     "t": "Am hard to reason with.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Patience (A:Pati) [Alpha = .88]",
+   "butir": [
+    {
+     "t": "Find that it takes a lot to make me feel angry at someone.",
+     "r": 0
+    },
+    {
+     "t": "Rarely feel angry with people.",
+     "r": 0
+    },
+    {
+     "t": "Am usually a patient person.",
+     "r": 0
+    },
+    {
+     "t": "Rarely get irritated.",
+     "r": 0
+    },
+    {
+     "t": "Seldom get mad.",
+     "r": 0
+    },
+    {
+     "t": "Am easily annoyed.",
+     "r": 1
+    },
+    {
+     "t": "Get angry easily.",
+     "r": 1
+    },
+    {
+     "t": "Get irritated easily.",
+     "r": 1
+    },
+    {
+     "t": "Lose my temper.",
+     "r": 1
+    },
+    {
+     "t": "Get upset easily.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Organization (C:Orga) [Alpha = .85]",
+   "butir": [
+    {
+     "t": "Keep things tidy.",
+     "r": 0
+    },
+    {
+     "t": "Get chores done right away.",
+     "r": 0
+    },
+    {
+     "t": "Like order.",
+     "r": 0
+    },
+    {
+     "t": "Like to tidy up.",
+     "r": 0
+    },
+    {
+     "t": "Want everything to be \"just right.\"",
+     "r": 0
+    },
+    {
+     "t": "Leave a mess in my room.",
+     "r": 1
+    },
+    {
+     "t": "Leave my belongings around.",
+     "r": 1
+    },
+    {
+     "t": "Don't finish the things that I start.",
+     "r": 1
+    },
+    {
+     "t": "Often forget to put things back in their proper place.",
+     "r": 1
+    },
+    {
+     "t": "Am not bothered by disorder.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Diligence (C:Dili) [Alpha = .81]",
+   "butir": [
+    {
+     "t": "Push myself very hard to succeed.",
+     "r": 0
+    },
+    {
+     "t": "Get started quickly on doing a job.",
+     "r": 0
+    },
+    {
+     "t": "Am exacting in my work.",
+     "r": 0
+    },
+    {
+     "t": "Work hard.",
+     "r": 0
+    },
+    {
+     "t": "Complete tasks successfully.",
+     "r": 0
+    },
+    {
+     "t": "Do just enough work to get by.",
+     "r": 1
+    },
+    {
+     "t": "Stop when work becomes too difficult.",
+     "r": 1
+    },
+    {
+     "t": "Do too little work.",
+     "r": 1
+    },
+    {
+     "t": "Hang around doing nothing.",
+     "r": 1
+    },
+    {
+     "t": "Quickly lose interest in the tasks I start.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Perfectionism (C:Perf) [Alpha = .80]",
+   "butir": [
+    {
+     "t": "Pay attention to details.",
+     "r": 0
+    },
+    {
+     "t": "Continue until everything is perfect.",
+     "r": 0
+    },
+    {
+     "t": "Have an eye for detail.",
+     "r": 0
+    },
+    {
+     "t": "Want every detail taken care of.",
+     "r": 0
+    },
+    {
+     "t": "Dislike imperfect work.",
+     "r": 0
+    },
+    {
+     "t": "Want everything to add up perfectly.",
+     "r": 0
+    },
+    {
+     "t": "Detect mistakes.",
+     "r": 0
+    },
+    {
+     "t": "Demand quality.",
+     "r": 0
+    },
+    {
+     "t": "Pay too little attention to details.",
+     "r": 1
+    },
+    {
+     "t": "Prefer to just let things happen.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Prudence (C:Prud) [Alpha = .80]",
+   "butir": [
+    {
+     "t": "Avoid mistakes.",
+     "r": 0
+    },
+    {
+     "t": "Make plans and stick to them.",
+     "r": 0
+    },
+    {
+     "t": "Do things according to a plan.",
+     "r": 0
+    },
+    {
+     "t": "Jump into things without thinking.",
+     "r": 1
+    },
+    {
+     "t": "Do things without thinking of the consequences.",
+     "r": 1
+    },
+    {
+     "t": "Make rash decisions.",
+     "r": 1
+    },
+    {
+     "t": "Act impulsively when something is bothering me.",
+     "r": 1
+    },
+    {
+     "t": "Make careless mistakes.",
+     "r": 1
+    },
+    {
+     "t": "Don't know why I do some of the things I do.",
+     "r": 1
+    },
+    {
+     "t": "Make a fool of myself.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Aesthetic Appreciation (O:AesA) [Alpha = .83]",
+   "butir": [
+    {
+     "t": "Believe in the importance of art.",
+     "r": 0
+    },
+    {
+     "t": "Get deeply immersed in music.",
+     "r": 0
+    },
+    {
+     "t": "See beauty in things that others might not notice.",
+     "r": 0
+    },
+    {
+     "t": "Enjoy feeling \"close to the earth.\"",
+     "r": 0
+    },
+    {
+     "t": "Have read the great literary classics.",
+     "r": 0
+    },
+    {
+     "t": "Do not like art.",
+     "r": 1
+    },
+    {
+     "t": "Seldom notice the emotional aspects of paintings and pictures.",
+     "r": 1
+    },
+    {
+     "t": "Do not like poetry.",
+     "r": 1
+    },
+    {
+     "t": "Do not like concerts.",
+     "r": 1
+    },
+    {
+     "t": "Do not enjoy watching dance performances.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Inquisitiveness (O:Inqu) [Alpha = .78]",
+   "butir": [
+    {
+     "t": "Am interested in science.",
+     "r": 0
+    },
+    {
+     "t": "Would love to explore strange places.",
+     "r": 0
+    },
+    {
+     "t": "Enjoy intellectual games.",
+     "r": 0
+    },
+    {
+     "t": "Love to read challenging material.",
+     "r": 0
+    },
+    {
+     "t": "Find political discussions interesting.",
+     "r": 0
+    },
+    {
+     "t": "Have a rich vocabulary.",
+     "r": 0
+    },
+    {
+     "t": "Don't know much about history.",
+     "r": 1
+    },
+    {
+     "t": "Avoid difficult reading material.",
+     "r": 1
+    },
+    {
+     "t": "Don't bother worrying about political and social problems.",
+     "r": 1
+    },
+    {
+     "t": "Will not probe deeply into a subject.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Creativity (O:Crea) [Alpha = .85]",
+   "butir": [
+    {
+     "t": "Have a vivid imagination.",
+     "r": 0
+    },
+    {
+     "t": "Come up with something new.",
+     "r": 0
+    },
+    {
+     "t": "Carry the conversation to a higher level.",
+     "r": 0
+    },
+    {
+     "t": "Am full of ideas.",
+     "r": 0
+    },
+    {
+     "t": "Love to think up new ways of doing things.",
+     "r": 0
+    },
+    {
+     "t": "Have excellent ideas.",
+     "r": 0
+    },
+    {
+     "t": "Do not have a good imagination.",
+     "r": 1
+    },
+    {
+     "t": "Have difficulty imagining things.",
+     "r": 1
+    },
+    {
+     "t": "Have trouble guessing how others will react.",
+     "r": 1
+    },
+    {
+     "t": "Seldom experience sudden intuitive insights.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Unconventionality (O:Unco) [Alpha = .84]",
+   "butir": [
+    {
+     "t": "Am considered to be kind of eccentric.",
+     "r": 0
+    },
+    {
+     "t": "Know that my ideas sometimes surprise people.",
+     "r": 0
+    },
+    {
+     "t": "Do things that others find strange.",
+     "r": 0
+    },
+    {
+     "t": "Rebel against authority.",
+     "r": 0
+    },
+    {
+     "t": "Swim against the current.",
+     "r": 0
+    },
+    {
+     "t": "Would hate to be considered odd or strange.",
+     "r": 1
+    },
+    {
+     "t": "Enjoy being thought of as a normal \"mainstream\" person.",
+     "r": 1
+    },
+    {
+     "t": "Like to be viewed as proper and conventional.",
+     "r": 1
+    },
+    {
+     "t": "Like to be thought of as a normal kind of person.",
+     "r": 1
+    },
+    {
+     "t": "Try to avoid complex people.",
+     "r": 1
+    }
+   ]
+  }
+ ],
+ "pf16": [
+  {
+   "nama": "WARMTH (16PF Factor A: Warmth) [IPIP Scale Alpha = .80]",
+   "butir": [
+    {
+     "t": "Know how to comfort others.",
+     "r": 0
+    },
+    {
+     "t": "Enjoy bringing people together.",
+     "r": 0
+    },
+    {
+     "t": "Feel others' emotions.",
+     "r": 0
+    },
+    {
+     "t": "Take an interest in other people's lives.",
+     "r": 0
+    },
+    {
+     "t": "Cheer people up.",
+     "r": 0
+    },
+    {
+     "t": "Make people feel at ease.",
+     "r": 0
+    },
+    {
+     "t": "Take time out for others.",
+     "r": 0
+    },
+    {
+     "t": "Don't like to get involved in other people's problems.",
+     "r": 1
+    },
+    {
+     "t": "Am not really interested in others.",
+     "r": 1
+    },
+    {
+     "t": "Try not to think about the needy.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "INTELLECT (Factor B: Reasoning) [.76]",
+   "butir": [
+    {
+     "t": "Make insightful remarks.",
+     "r": 0
+    },
+    {
+     "t": "Know the answers to many questions.",
+     "r": 0
+    },
+    {
+     "t": "Tend to analyze things.",
+     "r": 0
+    },
+    {
+     "t": "Use my brain.",
+     "r": 0
+    },
+    {
+     "t": "Learn quickly.",
+     "r": 0
+    },
+    {
+     "t": "Counter others' arguments.",
+     "r": 0
+    },
+    {
+     "t": "Reflect on things before acting.",
+     "r": 0
+    },
+    {
+     "t": "Weigh the pros against the cons.",
+     "r": 0
+    },
+    {
+     "t": "Consider myself an average person.",
+     "r": 1
+    },
+    {
+     "t": "Get confused easily.",
+     "r": 1
+    },
+    {
+     "t": "Know that I am not a special person.",
+     "r": 1
+    },
+    {
+     "t": "Have a poor vocabulary.",
+     "r": 1
+    },
+    {
+     "t": "Skip difficult words while reading.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "EMOTIONAL STABILITY (Factor C: Emotional Stability) [.85]",
+   "butir": [
+    {
+     "t": "Seldom feel blue.",
+     "r": 0
+    },
+    {
+     "t": "Feel comfortable with myself.",
+     "r": 0
+    },
+    {
+     "t": "Readily overcome setbacks.",
+     "r": 0
+    },
+    {
+     "t": "Am relaxed most of the time.",
+     "r": 0
+    },
+    {
+     "t": "Am not easily frustrated.",
+     "r": 0
+    },
+    {
+     "t": "Have frequent mood swings.",
+     "r": 1
+    },
+    {
+     "t": "Often feel blue.",
+     "r": 1
+    },
+    {
+     "t": "Dislike myself.",
+     "r": 1
+    },
+    {
+     "t": "Feel desperate.",
+     "r": 1
+    },
+    {
+     "t": "Am easily discouraged.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "ASSERTIVENESS (Factor E: Dominance) [.81]",
+   "butir": [
+    {
+     "t": "Take charge.",
+     "r": 0
+    },
+    {
+     "t": "Want to be in charge.",
+     "r": 0
+    },
+    {
+     "t": "Say what I think.",
+     "r": 0
+    },
+    {
+     "t": "Am not afraid of providing criticism.",
+     "r": 0
+    },
+    {
+     "t": "Take control of things.",
+     "r": 0
+    },
+    {
+     "t": "Can take strong measures.",
+     "r": 0
+    },
+    {
+     "t": "Wait for others to lead the way.",
+     "r": 1
+    },
+    {
+     "t": "Never challenge things.",
+     "r": 1
+    },
+    {
+     "t": "Let others make the decisions.",
+     "r": 1
+    },
+    {
+     "t": "Let myself be pushed around.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "GREGARIOUSNESS (Factor F: Liveliness) [.78]",
+   "butir": [
+    {
+     "t": "Am the life of the party.",
+     "r": 0
+    },
+    {
+     "t": "Love large parties.",
+     "r": 0
+    },
+    {
+     "t": "Joke around a lot.",
+     "r": 0
+    },
+    {
+     "t": "Enjoy being part of a loud crowd.",
+     "r": 0
+    },
+    {
+     "t": "Amuse my friends.",
+     "r": 0
+    },
+    {
+     "t": "Act wild and crazy.",
+     "r": 0
+    },
+    {
+     "t": "Seldom joke around.",
+     "r": 1
+    },
+    {
+     "t": "Don't like crowded events.",
+     "r": 1
+    },
+    {
+     "t": "Am the last to laugh at a joke.",
+     "r": 1
+    },
+    {
+     "t": "Dislike loud music.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "DUTIFULNESS (Factor G: Rule-Consciousness) [.84]",
+   "butir": [
+    {
+     "t": "Believe laws should be strictly enforced.",
+     "r": 0
+    },
+    {
+     "t": "Try to follow the rules.",
+     "r": 0
+    },
+    {
+     "t": "Believe in one true religion.",
+     "r": 0
+    },
+    {
+     "t": "Respect authority.",
+     "r": 0
+    },
+    {
+     "t": "Like to stand during the national anthem.",
+     "r": 0
+    },
+    {
+     "t": "Resist authority.",
+     "r": 1
+    },
+    {
+     "t": "Break rules.",
+     "r": 1
+    },
+    {
+     "t": "Use swear words.",
+     "r": 1
+    },
+    {
+     "t": "Oppose authority.",
+     "r": 1
+    },
+    {
+     "t": "Know how to get around the rules.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "FRIENDLINESS (Factor H: Social Boldness) [.80]",
+   "butir": [
+    {
+     "t": "Feel comfortable around people.",
+     "r": 0
+    },
+    {
+     "t": "Talk to a lot of different people at parties.",
+     "r": 0
+    },
+    {
+     "t": "Don't mind being the center of attention.",
+     "r": 0
+    },
+    {
+     "t": "Make friends easily.",
+     "r": 0
+    },
+    {
+     "t": "Start conversations.",
+     "r": 0
+    },
+    {
+     "t": "Find it difficult to approach others.",
+     "r": 1
+    },
+    {
+     "t": "Often feel uncomfortable around others.",
+     "r": 1
+    },
+    {
+     "t": "Have little to say.",
+     "r": 1
+    },
+    {
+     "t": "Am quiet around strangers.",
+     "r": 1
+    },
+    {
+     "t": "Keep in the background.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "SENSITIVITY (Factor I: Sensitivity) [.73]",
+   "butir": [
+    {
+     "t": "Like to read.",
+     "r": 0
+    },
+    {
+     "t": "Enjoy discussing movies and books with others.",
+     "r": 0
+    },
+    {
+     "t": "Read a lot.",
+     "r": 0
+    },
+    {
+     "t": "Don't like action movies.",
+     "r": 0
+    },
+    {
+     "t": "Cry during movies.",
+     "r": 0
+    },
+    {
+     "t": "Love flowers.",
+     "r": 0
+    },
+    {
+     "t": "Do not enjoy watching dance performances.",
+     "r": 1
+    },
+    {
+     "t": "Do not like poetry.",
+     "r": 1
+    },
+    {
+     "t": "Dislike works of fiction.",
+     "r": 1
+    },
+    {
+     "t": "Rarely notice my emotional reactions.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "DISTRUST (Factor L: Vigilance) [.80]",
+   "butir": [
+    {
+     "t": "Find it hard to forgive others.",
+     "r": 0
+    },
+    {
+     "t": "Suspect hidden motives in others.",
+     "r": 0
+    },
+    {
+     "t": "Am wary of others.",
+     "r": 0
+    },
+    {
+     "t": "Distrust people.",
+     "r": 0
+    },
+    {
+     "t": "Believe that people seldom tell you the whole truth.",
+     "r": 0
+    },
+    {
+     "t": "Believe that people are essentially evil.",
+     "r": 0
+    },
+    {
+     "t": "Trust what people say.",
+     "r": 1
+    },
+    {
+     "t": "Trust others.",
+     "r": 1
+    },
+    {
+     "t": "Believe that others have good intentions.",
+     "r": 1
+    },
+    {
+     "t": "Believe that people are basically moral.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "IMAGINATION (Factor M: Abstractedness) [.80]",
+   "butir": [
+    {
+     "t": "Do things that others find strange.",
+     "r": 0
+    },
+    {
+     "t": "Like to get lost in thought.",
+     "r": 0
+    },
+    {
+     "t": "Enjoy wild flights of fantasy.",
+     "r": 0
+    },
+    {
+     "t": "Love to daydream.",
+     "r": 0
+    },
+    {
+     "t": "Swim against the current.",
+     "r": 0
+    },
+    {
+     "t": "Take deviant positions.",
+     "r": 0
+    },
+    {
+     "t": "Do unexpected things.",
+     "r": 0
+    },
+    {
+     "t": "Do things by the book.",
+     "r": 1
+    },
+    {
+     "t": "Seldom daydream.",
+     "r": 1
+    },
+    {
+     "t": "Seldom get lost in thought.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "RESERVE (Factor N: Privateness) [.86]",
+   "butir": [
+    {
+     "t": "Reveal little about myself.",
+     "r": 0
+    },
+    {
+     "t": "Am hard to get to know.",
+     "r": 0
+    },
+    {
+     "t": "Don't talk a lot.",
+     "r": 0
+    },
+    {
+     "t": "Bottle up my feelings.",
+     "r": 0
+    },
+    {
+     "t": "Keep my thoughts to myself.",
+     "r": 0
+    },
+    {
+     "t": "Am open about myself to others.",
+     "r": 1
+    },
+    {
+     "t": "Am open about my feelings.",
+     "r": 1
+    },
+    {
+     "t": "Disclose my intimate thoughts.",
+     "r": 1
+    },
+    {
+     "t": "Show my feelings.",
+     "r": 1
+    },
+    {
+     "t": "Am willing to talk about myself.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "ANXIETY (Factor O: Apprehension) [.80]",
+   "butir": [
+    {
+     "t": "Am afraid that I will do the wrong thing.",
+     "r": 0
+    },
+    {
+     "t": "Feel threatened easily.",
+     "r": 0
+    },
+    {
+     "t": "Am easily hurt.",
+     "r": 0
+    },
+    {
+     "t": "Worry about things.",
+     "r": 0
+    },
+    {
+     "t": "Spend time thinking about past mistakes.",
+     "r": 0
+    },
+    {
+     "t": "Feel guilty when I say no.",
+     "r": 0
+    },
+    {
+     "t": "Feel crushed by setbacks.",
+     "r": 0
+    },
+    {
+     "t": "Don't worry about things that have already happened.",
+     "r": 1
+    },
+    {
+     "t": "Am not easily bothered by things.",
+     "r": 1
+    },
+    {
+     "t": "Don't let others discourage me.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "COMPLEXITY (Factor Q1: Openness to Change) [.82]",
+   "butir": [
+    {
+     "t": "Believe in the importance of art.",
+     "r": 0
+    },
+    {
+     "t": "Love to think up new ways of doing things.",
+     "r": 0
+    },
+    {
+     "t": "Enjoy hearing new ideas.",
+     "r": 0
+    },
+    {
+     "t": "Carry the conversation to a higher level.",
+     "r": 0
+    },
+    {
+     "t": "Prefer variety to routine.",
+     "r": 0
+    },
+    {
+     "t": "Avoid philosophical discussions.",
+     "r": 1
+    },
+    {
+     "t": "Rarely look for a deeper meaning in things.",
+     "r": 1
+    },
+    {
+     "t": "Am not interested in theoretical discussions.",
+     "r": 1
+    },
+    {
+     "t": "Am not interested in abstract ideas.",
+     "r": 1
+    },
+    {
+     "t": "Try to avoid complex people.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "INTROVERSION (Factor Q2: Self-Reliance) [.73]",
+   "butir": [
+    {
+     "t": "Want to be left alone.",
+     "r": 0
+    },
+    {
+     "t": "Prefer to do things by myself.",
+     "r": 0
+    },
+    {
+     "t": "Enjoy spending time by myself.",
+     "r": 0
+    },
+    {
+     "t": "Seek quiet.",
+     "r": 0
+    },
+    {
+     "t": "Don't mind eating alone.",
+     "r": 0
+    },
+    {
+     "t": "Enjoy silence.",
+     "r": 0
+    },
+    {
+     "t": "Enjoy my privacy.",
+     "r": 0
+    },
+    {
+     "t": "Enjoy being part of a group.",
+     "r": 1
+    },
+    {
+     "t": "Enjoy teamwork.",
+     "r": 1
+    },
+    {
+     "t": "Can't do without the company of others.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "ORDERLINESS (Factor Q3: Perfectionism) [.81]",
+   "butir": [
+    {
+     "t": "Want everything to be just right.",
+     "r": 0
+    },
+    {
+     "t": "Get chores done right away.",
+     "r": 0
+    },
+    {
+     "t": "Like order.",
+     "r": 0
+    },
+    {
+     "t": "Continue until everything is perfect.",
+     "r": 0
+    },
+    {
+     "t": "Am exacting in my work.",
+     "r": 0
+    },
+    {
+     "t": "Am not bothered by messy people.",
+     "r": 1
+    },
+    {
+     "t": "Am not bothered by disorder.",
+     "r": 1
+    },
+    {
+     "t": "Leave a mess in my room.",
+     "r": 1
+    },
+    {
+     "t": "Leave my belongings around.",
+     "r": 1
+    },
+    {
+     "t": "Put off unpleasant tasks.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "EMOTIONALITY (Factor Q4: Tension) [.76]",
+   "butir": [
+    {
+     "t": "Get irritated easily.",
+     "r": 0
+    },
+    {
+     "t": "Get angry easily.",
+     "r": 0
+    },
+    {
+     "t": "Am quick to judge others.",
+     "r": 0
+    },
+    {
+     "t": "Am annoyed by others' mistakes.",
+     "r": 0
+    },
+    {
+     "t": "Am easily put out.",
+     "r": 0
+    },
+    {
+     "t": "Can't stand being contradicted.",
+     "r": 0
+    },
+    {
+     "t": "Judge people by their appearance.",
+     "r": 0
+    },
+    {
+     "t": "Am not easily annoyed.",
+     "r": 1
+    },
+    {
+     "t": "Try to forgive and forget.",
+     "r": 1
+    },
+    {
+     "t": "Have a good word for everyone.",
+     "r": 1
+    }
+   ]
+  }
+ ],
+ "viar": [
+  {
+   "nama": "Appreciation of Beauty [APP] (rtt = .74/.64; = .69/.75; = .58/.54)*",
+   "butir": [
+    {
+     "t": "Feel it's important to live in a world of beauty.",
+     "r": 0
+    },
+    {
+     "t": "Experience deep emotions when I see beautiful things.",
+     "r": 0
+    },
+    {
+     "t": "Am rarely aware of the natural beauty in the environment.",
+     "r": 1
+    },
+    {
+     "t": "Fail to notice beauty until others comment on it.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Capacity for Love [CAP (new: LOV)] (rtt = .77/.69; = .73/.75; = .62/.61)*",
+   "butir": [
+    {
+     "t": "Know that there are people in my life who care as much for me as for themselves.",
+     "r": 0
+    },
+    {
+     "t": "Can express love to someone else.",
+     "r": 0
+    },
+    {
+     "t": "Do not easily share my feelings with others.",
+     "r": 1
+    },
+    {
+     "t": "Have difficulty accepting love from anyone.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Citizenship/Teamwork [CIT (new: TEA)] (rtt = .63/.66; = .68./74; = .54/.57)*",
+   "butir": [
+    {
+     "t": "Am an extremely loyal person.",
+     "r": 0
+    },
+    {
+     "t": "Support my teammates or fellow group members.",
+     "r": 0
+    },
+    {
+     "t": "Am not good at working with a group.",
+     "r": 1
+    },
+    {
+     "t": "Prefer to do everything alone.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Curiosity [CUR] (rtt = .80/.64; = .82./.75; = .72/.56)*",
+   "butir": [
+    {
+     "t": "Am excited by many different activities.",
+     "r": 0
+    },
+    {
+     "t": "Can find something of interest in any situation.",
+     "r": 0
+    },
+    {
+     "t": "Am not all that curious about the world.",
+     "r": 1
+    },
+    {
+     "t": "Have few interests.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Equity/Fairness [EQU] (rtt = .71/.58; = .78/.80; = .67/.63)*",
+   "butir": [
+    {
+     "t": "Treat all people equally.",
+     "r": 0
+    },
+    {
+     "t": "Believe that everyone's rights are equally important.",
+     "r": 0
+    },
+    {
+     "t": "Take advantage of others.",
+     "r": 1
+    },
+    {
+     "t": "Treat others differently if I don't like them.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Forgiveness/Mercy [FOR] (rtt = .75/.54; = .83/.75; = .71/.56)*",
+   "butir": [
+    {
+     "t": "Try to respond with understanding when someone treats me badly.",
+     "r": 0
+    },
+    {
+     "t": "Allow others to make a fresh start.",
+     "r": 0
+    },
+    {
+     "t": "Hold grudges.",
+     "r": 1
+    },
+    {
+     "t": "Find it hard to forgive others.a",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Gratitude [GRA] (rtt = .67/.65; = .74/.84; = .61/.63)*",
+   "butir": [
+    {
+     "t": "Express my thanks to those who care about me.",
+     "r": 0
+    },
+    {
+     "t": "Am an extremely grateful person.",
+     "r": 0
+    },
+    {
+     "t": "Feel no gratitude to others.b",
+     "r": 1
+    },
+    {
+     "t": "Find few things in my life to be grateful for.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Hope/Optimism [HOP] (rtt = .84/.72; = .79/.80; = .65/.60)*",
+   "butir": [
+    {
+     "t": "Can find the positive in what seems negative to others.",
+     "r": 0
+    },
+    {
+     "t": "Remain hopeful despite challenges.",
+     "r": 0
+    },
+    {
+     "t": "Expect the worst.",
+     "r": 1
+    },
+    {
+     "t": "Often think about the possibility of negative outcomes that are not likely to occur.c",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Humor/Playfulness [HUM] (rtt = .82/.67; = .83/.79; = .74/.61)*",
+   "butir": [
+    {
+     "t": "Use laughter to brighten the days of others.",
+     "r": 0
+    },
+    {
+     "t": "Keep my sense of humor even in gloomy situations.",
+     "r": 0
+    },
+    {
+     "t": "Am not known for my sense of humor.",
+     "r": 1
+    },
+    {
+     "t": "Am not fun to be with.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Industry/Perseverance/Persistence [IND (new: PEV)] (rtt = .77/.53; = .82/.81; = .73/.63)*",
+   "butir": [
+    {
+     "t": "Don't quit a task before it is finished.",
+     "r": 0
+    },
+    {
+     "t": "Finish things despite obstacles in the way.",
+     "r": 0
+    },
+    {
+     "t": "Don't finish what I start.",
+     "r": 1
+    },
+    {
+     "t": "Give up easily.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Integrity/Honesty/Authenticity [INT] (rtt = .77/.68; = .80/.83; = .65/.67)*",
+   "butir": [
+    {
+     "t": "Am trusted to keep secrets.",
+     "r": 0
+    },
+    {
+     "t": "Keep my promises.",
+     "r": 0
+    },
+    {
+     "t": "Lie to get myself out of trouble.",
+     "r": 1
+    },
+    {
+     "t": "Cheat on people who have trusted me.d",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Judgment/Open-mindedness [JUD] (rtt = .58/.59; = .67/.75; = .51/.55)*",
+   "butir": [
+    {
+     "t": "Weigh the pro's and the con's.",
+     "r": 0
+    },
+    {
+     "t": "Am valued by my friends for my good judgment.",
+     "r": 0
+    },
+    {
+     "t": "Don't tend to think things through critically.",
+     "r": 1
+    },
+    {
+     "t": "Don't think about different possibilities when making decisions.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Kindness/Generosity [KIN] (rtt = .75/.66; = .69/.77; = .54/.59)*",
+   "butir": [
+    {
+     "t": "Am never too busy to help a friend.",
+     "r": 0
+    },
+    {
+     "t": "Go out of my way to cheer up people who appear down.",
+     "r": 0
+    },
+    {
+     "t": "Get impatient when others talk to me about their problems.",
+     "r": 1
+    },
+    {
+     "t": "Am only kind to others if they have been kind to me.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Leadership [LEA] (rtt = .75/.64; = .76/.76; = .67/.57)*",
+   "butir": [
+    {
+     "t": "Am good at helping people work well together.",
+     "r": 0
+    },
+    {
+     "t": "Am told that I am a strong but fair leader.",
+     "r": 0
+    },
+    {
+     "t": "Have difficulty getting others to work together.",
+     "r": 1
+    },
+    {
+     "t": "Am not good at taking charge of a group.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Love of Learning [LOV (new: LER)] (rtt = .71/.53; = .81/.80; = .62/.55)*",
+   "butir": [
+    {
+     "t": "Am a true life-long learner.",
+     "r": 0
+    },
+    {
+     "t": "Am thrilled when I learn something new.",
+     "r": 0
+    },
+    {
+     "t": "Don't like to learn new things.",
+     "r": 1
+    },
+    {
+     "t": "Don't read nonfiction books for fun.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Modesty/Humility [MOD] (rtt = .76/.76; = .66/.72; = .55./54)*",
+   "butir": [
+    {
+     "t": "Don't brag about my accomplishments.",
+     "r": 0
+    },
+    {
+     "t": "Would never be described as arrogant.",
+     "r": 0
+    },
+    {
+     "t": "Like to stand out in a crowd.",
+     "r": 1
+    },
+    {
+     "t": "Like to talk about myself.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Originality/Creativity [ORI] (rtt = .79/.72; = .80/.79; = .71/.62)*",
+   "butir": [
+    {
+     "t": "Come up with new ways to do things.",
+     "r": 0
+    },
+    {
+     "t": "Am an original thinker.",
+     "r": 0
+    },
+    {
+     "t": "Am not considered to have new and different ideas.",
+     "r": 1
+    },
+    {
+     "t": "Have no special urge to do something original.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Perspective/Wisdom [PER] (rtt = .70/.73; = .74/.74; = .60/.56)*",
+   "butir": [
+    {
+     "t": "Have a mature view on life.",
+     "r": 0
+    },
+    {
+     "t": "Am considered to be a wise person.",
+     "r": 0
+    },
+    {
+     "t": "Am not good at figuring out what really matters.",
+     "r": 1
+    },
+    {
+     "t": "Am rarely consulted for advice by others.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Prudence [PRU] (rtt = .76/.76; = .77/.63; = .63/.45)*",
+   "butir": [
+    {
+     "t": "Believe it is always better to be safe than sorry",
+     "r": 0
+    },
+    {
+     "t": "Make careful choices.",
+     "r": 0
+    },
+    {
+     "t": "Act before thinking through the consequences.",
+     "r": 1
+    },
+    {
+     "t": "Like taking risks.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Self-regulation/Self-control [SEL (new: REG)] (rtt = .64/.53; = .57/.68; = .45/.42)*",
+   "butir": [
+    {
+     "t": "Am a highly disciplined person.",
+     "r": 0
+    },
+    {
+     "t": "Forego things that are bad for me in the long run even if they make me feel good in the short run.",
+     "r": 0
+    },
+    {
+     "t": "Let myself be taken over by urges to spend or eat too much.",
+     "r": 1
+    },
+    {
+     "t": "Give in to my urges.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Social/Personal/Emotional Intelligence [SOC (new: SIQ)] (rtt = .66/.69; = .72/.81; = .56/.63)*",
+   "butir": [
+    {
+     "t": "Am good at sensing what others are feeling.",
+     "r": 0
+    },
+    {
+     "t": "Know what to say to make people feel good.",
+     "r": 0
+    },
+    {
+     "t": "Don't know how to handle myself in a new social situation.",
+     "r": 1
+    },
+    {
+     "t": "Have trouble guessing how others will react.e",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Spirituality/Religiousness [SPI] (rtt = .83/.77; = .81/.73; = .70/.57)*",
+   "butir": [
+    {
+     "t": "Am a spiritual person.",
+     "r": 0
+    },
+    {
+     "t": "Believe that each person has a purpose in life.",
+     "r": 0
+    },
+    {
+     "t": "Feel that life has no meaning.f",
+     "r": 1
+    },
+    {
+     "t": "Do not believe in a universal power or a God.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Valor/Bravery/Courage [VAL] (rtt = .73/.75; = .77/.73; = .63/.54)*",
+   "butir": [
+    {
+     "t": "Have taken frequent stands in the face of strong opposition.",
+     "r": 0
+    },
+    {
+     "t": "Don't hesitate to express an unpopular opinion.",
+     "r": 0
+    },
+    {
+     "t": "Do not stand up for my beliefs.",
+     "r": 1
+    },
+    {
+     "t": "Don't speak my mind freely when there might be negative results.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "Zest/Enthusiasm/Vitality [ZES] (rtt = .82/.72; = .83/.81; = .71/.62)*",
+   "butir": [
+    {
+     "t": "Awaken with a sense of excitement about the day's possibilities.",
+     "r": 0
+    },
+    {
+     "t": "Look forward to each new day.",
+     "r": 0
+    },
+    {
+     "t": "Am described as grumpy.",
+     "r": 1
+    },
+    {
+     "t": "Don't have much energy.",
+     "r": 1
+    }
+   ]
+  }
+ ],
+ "ei": [
+  {
+   "nama": "POSITIVE EXPRESSIVITY [Alpha = .81 and .79 for women and men, respectively]",
+   "butir": [
+    {
+     "t": "Express my affection physically.",
+     "r": 0
+    },
+    {
+     "t": "Laugh out loud if something is funny.",
+     "r": 0
+    },
+    {
+     "t": "Express my happiness in a childlike manner.",
+     "r": 0
+    },
+    {
+     "t": "Sometimes laugh out loud when reading or watching TV.",
+     "r": 0
+    },
+    {
+     "t": "Hug my close friends.",
+     "r": 0
+    },
+    {
+     "t": "Show my feelings when I'm happy.",
+     "r": 0
+    },
+    {
+     "t": "Find it difficult showing people that I care about them.",
+     "r": 1
+    },
+    {
+     "t": "Have difficulty showing affection.",
+     "r": 1
+    },
+    {
+     "t": "Keep my happy feelings to myself.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "NEGATIVE EXPRESSIVITY [.75 & .74]",
+   "butir": [
+    {
+     "t": "Shout or scream when I'm angry.",
+     "r": 0
+    },
+    {
+     "t": "Can't help but look upset when something bad happens.",
+     "r": 0
+    },
+    {
+     "t": "Show my fear.",
+     "r": 0
+    },
+    {
+     "t": "Suspect that my facial expressions give me away when I feel sad.",
+     "r": 0
+    },
+    {
+     "t": "Show my sadness.",
+     "r": 0
+    },
+    {
+     "t": "Keep my feelings to myself, regardless of how unhappy I am.",
+     "r": 1
+    },
+    {
+     "t": "Find it difficult showing people that I'm angry with them.",
+     "r": 1
+    },
+    {
+     "t": "Keep my feelings to myself, regardless of how scared I am.",
+     "r": 1
+    },
+    {
+     "t": "Rarely show my anger.",
+     "r": 1
+    },
+    {
+     "t": "Wish I could more easily show my negative feelings.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "ATTENDING TO EMOTIONS [.81 & .83]",
+   "butir": [
+    {
+     "t": "Think about the causes of my emotions.",
+     "r": 0
+    },
+    {
+     "t": "Pay a lot of attention to my feelings.",
+     "r": 0
+    },
+    {
+     "t": "Am usually aware of the way that I'm feeling.",
+     "r": 0
+    },
+    {
+     "t": "Notice my emotions.",
+     "r": 0
+    },
+    {
+     "t": "Often stop to analyze how I'm feeling.",
+     "r": 0
+    },
+    {
+     "t": "Rarely think about how I feel.",
+     "r": 1
+    },
+    {
+     "t": "Rarely analyze my emotions.",
+     "r": 1
+    },
+    {
+     "t": "Am not in touch with my feelings.",
+     "r": 1
+    },
+    {
+     "t": "Often ignore my feelings.",
+     "r": 1
+    },
+    {
+     "t": "Rarely notice my emotional reactions.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "EMOTION-BASED DECISION-MAKING [.73 & .67]",
+   "butir": [
+    {
+     "t": "Listen to my feelings when making important decisions.",
+     "r": 0
+    },
+    {
+     "t": "Base my goals in life on inspiration, rather than logic.",
+     "r": 0
+    },
+    {
+     "t": "Plan my life based on how I feel.",
+     "r": 0
+    },
+    {
+     "t": "Believe emotions give direction to life.",
+     "r": 0
+    },
+    {
+     "t": "Listen to my heart rather than my brain.",
+     "r": 0
+    },
+    {
+     "t": "Plan my life logically.",
+     "r": 1
+    },
+    {
+     "t": "Believe important decisions should be based on logical reasoning.",
+     "r": 1
+    },
+    {
+     "t": "Listen to my brain rather than my heart.",
+     "r": 1
+    },
+    {
+     "t": "Make decisions based on facts, not feelings.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "RESPONSIVE JOY [.73 & .70]",
+   "butir": [
+    {
+     "t": "Like to watch children open presents.",
+     "r": 0
+    },
+    {
+     "t": "Usually end up laughing if the people around me are laughing.",
+     "r": 0
+    },
+    {
+     "t": "Feel other people's joy.",
+     "r": 0
+    },
+    {
+     "t": "Get caught up in the excitement when others are celebrating.",
+     "r": 0
+    },
+    {
+     "t": "Am strongly influenced by the good moods of others.",
+     "r": 0
+    },
+    {
+     "t": "Find it hard to stay in a bad mood if the people around me are happy.",
+     "r": 0
+    },
+    {
+     "t": "Dislike being around happy people when I'm feeling sad.",
+     "r": 1
+    },
+    {
+     "t": "Am unaffected by other people's happiness.",
+     "r": 1
+    },
+    {
+     "t": "Rarely get caught up in the excitement.",
+     "r": 1
+    },
+    {
+     "t": "Dislike children's birthday parties.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "RESPONSIVE DISTRESS [.59 & .63]",
+   "butir": [
+    {
+     "t": "Am deeply moved by others' misfortunes.",
+     "r": 0
+    },
+    {
+     "t": "Am easily moved to tears.",
+     "r": 0
+    },
+    {
+     "t": "Suffer from others' sorrows.",
+     "r": 0
+    },
+    {
+     "t": "Am upset by the misfortunes of strangers.",
+     "r": 0
+    },
+    {
+     "t": "Would be upset if I saw an injured animal.",
+     "r": 0
+    },
+    {
+     "t": "Am calm even in tense situations.",
+     "r": 1
+    },
+    {
+     "t": "Am not easily disturbed by events.",
+     "r": 1
+    },
+    {
+     "t": "Am unaffected by the suffering of others.",
+     "r": 1
+    },
+    {
+     "t": "Rarely cry during sad movies.",
+     "r": 1
+    },
+    {
+     "t": "Remain calm during emergencies.",
+     "r": 1
+    }
+   ]
+  },
+  {
+   "nama": "EMPATHIC CONCERN [.64 & .80]",
+   "butir": [
+    {
+     "t": "Am concerned about others.",
+     "r": 0
+    },
+    {
+     "t": "Feel sympathy for those who are worse off than myself.",
+     "r": 0
+    },
+    {
+     "t": "Sympathize with the homeless.",
+     "r": 0
+    },
+    {
+     "t": "Believe that criminals should receive help rather than punishment.",
+     "r": 0
+    },
+    {
+     "t": "Believe that the poor deserve our sympathy.",
+     "r": 0
+    },
+    {
+     "t": "Feel little concern for others.",
+     "r": 1
+    },
+    {
+     "t": "Have no sympathy for criminals.",
+     "r": 1
+    },
+    {
+     "t": "Look down on any weakness.",
+     "r": 1
+    },
+    {
+     "t": "Don't like to get involved in other people's problems.",
+     "r": 1
+    },
+    {
+     "t": "Have little sympathy for the unemployed.",
+     "r": 1
+    }
+   ]
+  }
+ ],
+ "orvis": [
+  {
+   "nama": "Leadership",
+   "butir": [
+    {
+     "t": "Make important things happen",
+     "r": 0,
+     "no": 1
+    },
+    {
+     "t": "Lead other people",
+     "r": 0,
+     "no": 9
+    },
+    {
+     "t": "Be a sales or marketing director",
+     "r": 0,
+     "no": 17
+    },
+    {
+     "t": "Be the chief executive of a large company",
+     "r": 0,
+     "no": 25
+    },
+    {
+     "t": "Organize a political campaign",
+     "r": 0,
+     "no": 33
+    },
+    {
+     "t": "Be the master of ceremonies at a meeting",
+     "r": 0,
+     "no": 41
+    },
+    {
+     "t": "Plan an advertising campaign",
+     "r": 0,
+     "no": 49
+    },
+    {
+     "t": "Debate topics in a public meeting",
+     "r": 0,
+     "no": 57
+    },
+    {
+     "t": "Persuade others to change their views",
+     "r": 0,
+     "no": 65
+    },
+    {
+     "t": "Be a state governor or senator",
+     "r": 0,
+     "no": 73
+    },
+    {
+     "t": "Run for political office",
+     "r": 0,
+     "no": 81
+    },
+    {
+     "t": "Make decisions that affect a lot of people",
+     "r": 0,
+     "no": 86
+    }
+   ]
+  },
+  {
+   "nama": "Organization",
+   "butir": [
+    {
+     "t": "Be the financial officer for a company",
+     "r": 0,
+     "no": 2
+    },
+    {
+     "t": "Be an office manager",
+     "r": 0,
+     "no": 10
+    },
+    {
+     "t": "Plan budgets",
+     "r": 0,
+     "no": 18
+    },
+    {
+     "t": "Prepare financial contracts",
+     "r": 0,
+     "no": 26
+    },
+    {
+     "t": "Develop an office filing system",
+     "r": 0,
+     "no": 34
+    },
+    {
+     "t": "Supervise the work of others",
+     "r": 0,
+     "no": 42
+    },
+    {
+     "t": "Plan investment strategies",
+     "r": 0,
+     "no": 50
+    },
+    {
+     "t": "Establish time schedules",
+     "r": 0,
+     "no": 58
+    },
+    {
+     "t": "Monitor business expenses",
+     "r": 0,
+     "no": 66
+    },
+    {
+     "t": "Be a purchasing agent",
+     "r": 0,
+     "no": 74
+    },
+    {
+     "t": "Keep track of a company's inventory",
+     "r": 0,
+     "no": 82
+    },
+    {
+     "t": "Manage a computer data base",
+     "r": 0,
+     "no": 87
+    },
+    {
+     "t": "Keep detailed records",
+     "r": 0,
+     "no": 90
+    }
+   ]
+  },
+  {
+   "nama": "Altruism",
+   "butir": [
+    {
+     "t": "Help others learn new ideas",
+     "r": 0,
+     "no": 3
+    },
+    {
+     "t": "Care for sick people",
+     "r": 0,
+     "no": 11
+    },
+    {
+     "t": "Be an elementary-school teacher",
+     "r": 0,
+     "no": 19
+    },
+    {
+     "t": "Be a social worker",
+     "r": 0,
+     "no": 27
+    },
+    {
+     "t": "Be a minister, priest, rabbi or other religious teacher",
+     "r": 0,
+     "no": 35
+    },
+    {
+     "t": "Counsel persons who need help",
+     "r": 0,
+     "no": 43
+    },
+    {
+     "t": "Instruct parents on child care",
+     "r": 0,
+     "no": 51
+    },
+    {
+     "t": "Be a doctor or nurse",
+     "r": 0,
+     "no": 59
+    },
+    {
+     "t": "Be a physical therapist",
+     "r": 0,
+     "no": 67
+    },
+    {
+     "t": "Provide comfort and support to others",
+     "r": 0,
+     "no": 75
+    },
+    {
+     "t": "Participate in charity events",
+     "r": 0,
+     "no": 83
+    },
+    {
+     "t": "Help people make career decisions",
+     "r": 0,
+     "no": 88
+    },
+    {
+     "t": "Be a counselor or therapist",
+     "r": 0,
+     "no": 91
+    }
+   ]
+  },
+  {
+   "nama": "Creativity",
+   "butir": [
+    {
+     "t": "Create works of art",
+     "r": 0,
+     "no": 4
+    },
+    {
+     "t": "Create new fashion designs",
+     "r": 0,
+     "no": 12
+    },
+    {
+     "t": "Be a professional dancer",
+     "r": 0,
+     "no": 20
+    },
+    {
+     "t": "Write short stories or novels",
+     "r": 0,
+     "no": 28
+    },
+    {
+     "t": "Play an instrument in a symphony",
+     "r": 0,
+     "no": 36
+    },
+    {
+     "t": "Redecorate one's house",
+     "r": 0,
+     "no": 44
+    },
+    {
+     "t": "Select art works for a museum",
+     "r": 0,
+     "no": 52
+    },
+    {
+     "t": "Sing professionally",
+     "r": 0,
+     "no": 60
+    },
+    {
+     "t": "Be an actor or actress",
+     "r": 0,
+     "no": 68
+    },
+    {
+     "t": "Be an artist or architect",
+     "r": 0,
+     "no": 76
+    },
+    {
+     "t": "Act in a play",
+     "r": 0,
+     "no": 84
+    },
+    {
+     "t": "Design Internet web pages",
+     "r": 0,
+     "no": 85
+    },
+    {
+     "t": "Write songs",
+     "r": 0,
+     "no": 89
+    },
+    {
+     "t": "Paint or draw",
+     "r": 0,
+     "no": 92
+    }
+   ]
+  },
+  {
+   "nama": "Analysis",
+   "butir": [
+    {
+     "t": "Be a chemist",
+     "r": 0,
+     "no": 5
+    },
+    {
+     "t": "Design a laboratory experiment",
+     "r": 0,
+     "no": 13
+    },
+    {
+     "t": "Be a mathematician",
+     "r": 0,
+     "no": 21
+    },
+    {
+     "t": "Explain scientific concepts to others",
+     "r": 0,
+     "no": 29
+    },
+    {
+     "t": "Be a physicist",
+     "r": 0,
+     "no": 37
+    },
+    {
+     "t": "Carry out medical research",
+     "r": 0,
+     "no": 45
+    },
+    {
+     "t": "Be a scientific reporter",
+     "r": 0,
+     "no": 53
+    },
+    {
+     "t": "Solve complex puzzles",
+     "r": 0,
+     "no": 61
+    },
+    {
+     "t": "Develop a computer program",
+     "r": 0,
+     "no": 69
+    },
+    {
+     "t": "Be a statistician",
+     "r": 0,
+     "no": 77
+    }
+   ]
+  },
+  {
+   "nama": "Production",
+   "butir": [
+    {
+     "t": "Care for cattle or horses",
+     "r": 0,
+     "no": 6
+    },
+    {
+     "t": "Be a farmer",
+     "r": 0,
+     "no": 14
+    },
+    {
+     "t": "Construct new buildings",
+     "r": 0,
+     "no": 22
+    },
+    {
+     "t": "Be a forest ranger",
+     "r": 0,
+     "no": 30
+    },
+    {
+     "t": "Cultivate plants",
+     "r": 0,
+     "no": 38
+    },
+    {
+     "t": "Go on nature walks",
+     "r": 0,
+     "no": 46
+    },
+    {
+     "t": "Do woodworking",
+     "r": 0,
+     "no": 54
+    },
+    {
+     "t": "Raise flowers",
+     "r": 0,
+     "no": 62
+    },
+    {
+     "t": "Repair cars or trucks",
+     "r": 0,
+     "no": 70
+    },
+    {
+     "t": "Work with tools and machinery",
+     "r": 0,
+     "no": 78
+    }
+   ]
+  },
+  {
+   "nama": "Adventure",
+   "butir": [
+    {
+     "t": "Be a professional athlete",
+     "r": 0,
+     "no": 7
+    },
+    {
+     "t": "Engage in exciting adventures",
+     "r": 0,
+     "no": 15
+    },
+    {
+     "t": "Survive in the wilderness",
+     "r": 0,
+     "no": 23
+    },
+    {
+     "t": "Be a racing car driver",
+     "r": 0,
+     "no": 31
+    },
+    {
+     "t": "Face physical danger",
+     "r": 0,
+     "no": 39
+    },
+    {
+     "t": "Be a military officer",
+     "r": 0,
+     "no": 47
+    },
+    {
+     "t": "Compete in athletic events",
+     "r": 0,
+     "no": 55
+    },
+    {
+     "t": "Be a bounty hunter",
+     "r": 0,
+     "no": 63
+    },
+    {
+     "t": "Be a long-distance bicycle rider",
+     "r": 0,
+     "no": 71
+    },
+    {
+     "t": "Be a police officer",
+     "r": 0,
+     "no": 79
+    }
+   ]
+  },
+  {
+   "nama": "Erudition",
+   "butir": [
+    {
+     "t": "Be a translator or interpreter",
+     "r": 0,
+     "no": 8
+    },
+    {
+     "t": "Be a librarian",
+     "r": 0,
+     "no": 16
+    },
+    {
+     "t": "Be a professor of English",
+     "r": 0,
+     "no": 24
+    },
+    {
+     "t": "Make up word puzzles",
+     "r": 0,
+     "no": 32
+    },
+    {
+     "t": "Edit a newspaper",
+     "r": 0,
+     "no": 40
+    },
+    {
+     "t": "Know many languages",
+     "r": 0,
+     "no": 48
+    },
+    {
+     "t": "Be a foreign correspondent",
+     "r": 0,
+     "no": 56
+    },
+    {
+     "t": "Speak fluently on any subject",
+     "r": 0,
+     "no": 64
+    },
+    {
+     "t": "Read many books",
+     "r": 0,
+     "no": 72
+    },
+    {
+     "t": "Keep a diary or journal",
+     "r": 0,
+     "no": 80
+    }
+   ]
+  }
+ ]
+}
